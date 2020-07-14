@@ -24,6 +24,8 @@ print('LOADING..')
 time.sleep(0.5)
 print('LOADING...')
 
+#asedekon
+
 time.sleep(0.5)
 print('LOADING')
 time.sleep(0.5)
