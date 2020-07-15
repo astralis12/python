@@ -30,7 +30,7 @@ print("LOADING...")
 # mantapjiwa
 # lol
 # nyerah wkwkwk
-
+# apalagi
 time.sleep(0.5)
 print("LOADING")
 time.sleep(0.5)
