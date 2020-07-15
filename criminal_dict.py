@@ -27,6 +27,8 @@ print("LOADING...")
 
 # asedekon
 # x/y
+# mantapjiwa
+# lol
 
 time.sleep(0.5)
 print("LOADING")
@@ -59,6 +61,7 @@ def JUAN(name, age, crime):
     print(f"name:{name}")
     print(f"age: {age}")
     print(f"crime: {crime}")
+
 
 JUAN("JUAN", 31, "PHEDOPHILE")
 
