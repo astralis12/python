@@ -29,6 +29,7 @@ print("LOADING...")
 # x/y
 # mantapjiwa
 # lol
+# nyerah wkwkwk
 
 time.sleep(0.5)
 print("LOADING")
