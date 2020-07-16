@@ -37,10 +37,10 @@ print("LOADING...")
 # hasu
 # apaan
 # ga jelas
+# asu
 # cobaan
 time.sleep(0.5)
-print(
-    "LOADING"           )
+print("LOADING")
 time.sleep(0.5)
 print("LOADING.")
 time.sleep(0.5)
