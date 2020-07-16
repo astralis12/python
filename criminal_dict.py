@@ -31,6 +31,7 @@ print("LOADING...")
 # lol
 # nyerah wkwkwk
 # apalagi
+# asw
 time.sleep(0.5)
 print("LOADING")
 time.sleep(0.5)
