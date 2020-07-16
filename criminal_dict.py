@@ -34,6 +34,7 @@ print("LOADING...")
 # asw
 # ayam
 # nayhaah
+# hasu
 time.sleep(0.5)
 print("LOADING")
 time.sleep(0.5)
