@@ -35,6 +35,9 @@ print("LOADING...")
 # ayam
 # nayhaah
 # hasu
+# apaan
+# ga jelas
+#cobaan
 time.sleep(0.5)
 print("LOADING")
 time.sleep(0.5)
