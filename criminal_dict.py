@@ -32,6 +32,7 @@ print("LOADING...")
 # nyerah wkwkwk
 # apalagi
 # asw
+# ayam
 time.sleep(0.5)
 print("LOADING")
 time.sleep(0.5)
