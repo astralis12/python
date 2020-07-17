@@ -25,6 +25,7 @@ print("LOADING..")
 time.sleep(0.5)
 print("LOADING...")
 
+#laoslkdaokd
 # asedekon
 # x/y
 # mantapjiwa
